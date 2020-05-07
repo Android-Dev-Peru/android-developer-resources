@@ -27,6 +27,8 @@ Udacity
 
 -  https://classroom.udacity.com/courses/ud9012
 -  https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
+-  https://classroom.udacity.com/courses/ud940
+-  https://www.udacity.com/course/advanced-android-with-kotlin--ud940  
     
 Google Play Academy 
 
