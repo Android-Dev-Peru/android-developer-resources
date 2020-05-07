@@ -63,7 +63,13 @@ Kotlin Conf 2019
 - Iconfinder https://www.iconfinder.com/
 - Material design palette https://www.materialpalette.com/
 - Flaticon https://www.flaticon.com/
-    
+
+## Testing
+
+- Fundamentals https://developer.android.com/training/testing/fundamentals
+- Codelab https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-basics/index.html?index=..%2F..index#0
+- Examples https://github.com/android/testing-samples
+
 ## Publish App
 
 - Publish your app
