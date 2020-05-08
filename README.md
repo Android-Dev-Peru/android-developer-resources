@@ -29,7 +29,15 @@ Udacity
 -  https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 -  https://classroom.udacity.com/courses/ud940
 -  https://www.udacity.com/course/advanced-android-with-kotlin--ud940  
-    
+
+Caster.io
+
+- The Kotlin Programming Language https://caster.io/courses/kotlin-programming-language
+
+Coursera 
+
+- Kotlin for Java Developers https://www.coursera.org/learn/kotlin-for-java-developers
+
 Google Play Academy 
 
 - https://playacademy.exceedlms.com/student/catalog
