@@ -51,6 +51,14 @@ Android Dev Summit 2019
 Kotlin Conf 2019
 
 - https://kotlinconf.com/2019/talks/
+
+Kotlin/Everywhere Buenos Aires 2019
+
+- https://www.youtube.com/playlist?list=PLCDIutLaQECNAam6ZfjWkV67RuUIbYt14
+
+Android 11 LATAM
+
+- https://www.youtube.com/playlist?list=PLXStRk2Mx2qxVIhSiT0lePSl84NhSPgog
     
 ## Codelabs
 
