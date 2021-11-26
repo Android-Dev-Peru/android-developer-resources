@@ -30,10 +30,6 @@ Udacity
 -  https://classroom.udacity.com/courses/ud940
 -  https://www.udacity.com/course/advanced-android-with-kotlin--ud940  
 
-Caster.io
-
-- The Kotlin Programming Language https://caster.io/courses/kotlin-programming-language
-
 Coursera 
 
 - Kotlin for Java Developers https://www.coursera.org/learn/kotlin-for-java-developers
